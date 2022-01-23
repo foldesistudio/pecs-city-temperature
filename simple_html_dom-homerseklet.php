@@ -40,6 +40,7 @@ if (homererseklet(11) != "nincsadat") {
 
 
 // JSON generálás
+$myObj = null;
 $myObj->misi_hofok = $misi_hofok;
 $myObj->misi_hofok_backup = $misi_hofok_backup;
 $myObj->misi_hofok_tendencia = $misi_hofok_tendencia;
